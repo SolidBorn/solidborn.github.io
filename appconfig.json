@@ -1,0 +1,16 @@
+﻿{
+	"appName": "App template", //name of the app
+	"description": "Copy & paste", //short description of the app
+	"appUrl": "index.html",	//The main page of your app
+	"configUrl": "appconfig.json", //This file
+	"iconUrl": "img/icon.png", //Icon url
+	"defaultWidth": 300, //app will take this WIDTH first time its started
+	"defaultHeight": 300, //app will take this HEIGHT first time its started
+	"minWidth": 200,
+	"minHeight": 200,
+	"maxWidth": 1000,
+	"maxHeight": 1000,
+	"requestHandlers": [ ],
+	"activators": [ ],
+	"permissions": "none"
+}

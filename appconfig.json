@@ -1,6 +1,6 @@
 ﻿{
-	"appName": "App template", //name of the app
-	"description": "Copy & paste", //short description of the app
+	"appName": "Language Transate", //name of the app
+	"description": "Easily translates langauges in runescape", //short description of the app
 	"appUrl": "index.html",	//The main page of your app
 	"configUrl": "appconfig.json", //This file
 	"iconUrl": "img/icon.png", //Icon url

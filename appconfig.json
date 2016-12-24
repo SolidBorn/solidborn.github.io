@@ -4,12 +4,12 @@
 	"appUrl": "index.html",	//The main page of your app
 	"configUrl": "appconfig.json", //This file
 	"iconUrl": "img/img.jpg", //Icon url
-	"defaultWidth": 300, //app will take this WIDTH first time its started
-	"defaultHeight": 300, //app will take this HEIGHT first time its started
-	"minWidth": 200,
-	"minHeight": 200,
-	"maxWidth": 1000,
-	"maxHeight": 1000,
+	"defaultWidth": 290, //app will take this WIDTH first time its started
+	"defaultHeight": 250, //app will take this HEIGHT first time its started
+	"minWidth": 290,
+	"minHeight": 250,
+	"maxWidth": 290,
+	"maxHeight": 250,
 	"requestHandlers": [ ],
 	"activators": [ ],
 	"permissions": "none"

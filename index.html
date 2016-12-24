@@ -7,9 +7,24 @@
 	<script type="text/javascript" src="js/alt1lib.js"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
 	<style type="text/css">
-		/* Additional css rules */
 
-	</style>
+		body{color:#EEE; font-family:sans-serif; font-size:13px;}
+
+		.offertable{width:100%;}
+			.offerrow{color:#AAA;}
+			.offerrow.newrow{color:#EEE;}
+
+		#overview{display:none;}
+		#single{display:none;}
+		
+		#main[data-tab='0'] #overview{display:block;}
+		#main[data-tab='1'] #single{display:block;}
+		
+		.boughticon{width:16px; height:16px; background:url("bought.png");}
+		.soldicon{width:16px; height:16px; background:url("sold.png");}
+		.equalicon{width:16px; height:16px; background:url("equal.png");}
+		.right{text-align:right;}
+		</style>
 </head>
 <!-- The onload will call the "start" method in "script.js", this will the "appconfig.json" file -->
 <body class="nis" onload="start();">

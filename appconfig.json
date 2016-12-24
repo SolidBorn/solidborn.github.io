@@ -1,6 +1,6 @@
 ﻿{
 	"appName": "Language Transate", //name of the app
-	"description": "Easily translates langauges in runescape", //short description of the app
+	"description": "A simple tool that reads and translate different languages from the runescape chatbox", //short description of the app
 	"appUrl": "index.html",	//The main page of your app
 	"configUrl": "appconfig.json", //This file
 	"iconUrl": "img/icon.png", //Icon url

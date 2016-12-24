@@ -3,13 +3,13 @@
 	"description": "A simple tool that reads and translate different languages from the runescape chatbox", //short description of the app
 	"appUrl": "index.html",	//The main page of your app
 	"configUrl": "appconfig.json", //This file
-	"iconUrl": "img/img.jpg", //Icon url
+	"iconUrl": "img/gie.png", //Icon url
 	"defaultWidth": 290, //app will take this WIDTH first time its started
 	"defaultHeight": 250, //app will take this HEIGHT first time its started
-	"minWidth": 290,
-	"minHeight": 250,
-	"maxWidth": 290,
-	"maxHeight": 250,
+	"minWidth": 289,
+	"minHeight": 249,
+	"maxWidth": 291,
+	"maxHeight": 251,
 	"requestHandlers": [ ],
 	"activators": [ ],
 	"permissions": "none"
